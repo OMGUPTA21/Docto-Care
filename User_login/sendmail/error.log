@@ -1,0 +1,34 @@
+22/04/05 20:18:30 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor p10-20020a637f4a000000b00373a2760775sm13421197pgn.2 - gsmtp<EOL>
+22/04/05 20:18:30 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor j18-20020a633c12000000b0038204629cc9sm13317650pga.10 - gsmtp<EOL>
+22/04/05 20:19:07 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor u17-20020a056a00159100b004faef351ebcsm15990633pfk.45 - gsmtp<EOL>
+22/04/05 20:19:26 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor v3-20020a056a00148300b004fb04acde5dsm15766252pfu.166 - gsmtp<EOL>
+22/04/05 20:20:14 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor g1-20020a17090adac100b001c67cedd84esm2697397pjx.42 - gsmtp<EOL>
+22/04/05 20:23:20 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor j13-20020a056a00130d00b004f1025a4361sm16912940pfu.202 - gsmtp<EOL>
+22/04/05 20:26:22 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor g1-20020a17090adac100b001c67cedd84esm2709825pjx.42 - gsmtp<EOL>
+22/04/05 20:26:38 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor q203-20020a632ad4000000b003987c421eb2sm13880615pgq.34 - gsmtp<EOL>
+22/04/05 20:29:02 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor l2-20020a056a0016c200b004f7e3181a41sm16774748pfc.98 - gsmtp<EOL>
+22/04/05 20:34:36 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor u9-20020a056a00158900b004faad3ae570sm16814533pfk.189 - gsmtp<EOL>
+22/04/05 20:35:01 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor nv11-20020a17090b1b4b00b001c71b0bf18bsm2974736pjb.11 - gsmtp<EOL>
+22/04/05 20:35:05 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor d16-20020a056a00245000b004f771b48736sm16796886pfj.194 - gsmtp<EOL>
+22/04/05 20:36:25 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor q13-20020aa7982d000000b004fb199b9c7dsm17052180pfl.119 - gsmtp<EOL>
+22/04/05 20:37:39 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor 3-20020a17090a034300b001c779e82af6sm2708024pjf.48 - gsmtp<EOL>
+22/04/05 20:42:43 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor d5-20020a056a0010c500b004faee9887ccsm16071934pfu.64 - gsmtp<EOL>
+22/04/05 20:46:10 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor g5-20020a056a0023c500b004fae15ab86dsm15830226pfc.52 - gsmtp<EOL>
+22/04/05 20:50:53 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor o11-20020a17090aac0b00b001cab1712455sm2651604pjq.40 - gsmtp<EOL>
+22/04/05 20:55:13 : Socket Error # 10013<EOL>Access denied.
+22/04/05 20:55:41 : Connect timed out.
+22/04/05 20:58:14 : Connect timed out.
+22/04/05 20:59:04 : Connect timed out.
+22/04/05 21:03:39 : Connect timed out.
+22/04/05 21:04:23 : Connect timed out.
+22/04/05 21:04:41 : Connect timed out.
+22/04/05 21:13:04 : Socket Error # 10013<EOL>Access denied.
+22/04/05 21:13:47 : Connect timed out.
+22/04/05 21:14:50 : Connect timed out.
+22/04/05 21:17:31 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials lw4-20020a17090b180400b001c7327d09c3sm2925833pjb.53 - gsmtp<EOL>
+22/04/05 21:20:12 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials o5-20020a17090a3d4500b001c97528521asm2997694pjf.6 - gsmtp<EOL>
+22/04/06 17:25:04 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials q9-20020a056a00088900b004fe1a045e97sm8825101pfj.118 - gsmtp<EOL>
+22/04/06 18:37:48 : The recipient address <omgupta564.com@> is not a valid RFC-5321<EOL>address. Learn more at<EOL> https://support.google.com/mail/answer/6596 z13-20020a17090a468d00b001c7db8e6ac7sm5889196pjf.40 - gsmtp<EOL>
+22/04/06 18:38:17 : The recipient address <omgupta564gmail.com@> is not a valid RFC-5321<EOL>address. Learn more at<EOL> https://support.google.com/mail/answer/6596 ev16-20020a17090aead000b001c7c2919453sm5634101pjb.33 - gsmtp<EOL>
+22/04/06 22:48:18 : Socket Error # 10054<EOL>Connection reset by peer.
+22/04/07 08:40:57 : Socket Error # 11001<EOL>Host not found.
